@@ -1,0 +1,8 @@
+{
+  "name": "TOÁN THCS – QUẢN TRỊ HỌC TẬP",
+  "description": "Web app quản trị học tập môn Toán dành cho giáo viên Kiều Cao Long - Trường THCS Thạch Thất 2",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
